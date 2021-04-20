@@ -121,4 +121,15 @@ a:hover {
     color: blueviolet;
 }
 
+
+
+@media (max-width: 500px) {
+  img {
+    position: relative;
+    top: 13%;
+    left: -5%;
+    width: 70%;
+  }
+}
+
 </style>
